@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MarkusLangeland
-- 🌱 I’m currently learning Reactjs and Firebase
 - 📫 How to reach me markus.langelan@gmail.com
 
 <!---
